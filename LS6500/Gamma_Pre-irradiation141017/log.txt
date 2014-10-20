@@ -1,0 +1,4 @@
+﻿10/17/2014 1:21:50 PM New Instance of BeckmanFileHandler! Started: 
+10/17/2014 1:21:50 PM Source path = C:\Program Files\Beckman Coulter\LS 6000 WinConnection Suite 1.1\Data\USER04\
+10/17/2014 1:21:50 PM Destination path = C:\Documents and Settings\Lab Administrator\Desktop\NSRL Data\Gamma_Pre-irradiation141017\
+10/17/2014 1:28:53 PM Moving file... Old file path: SN101701.XLS, New file path: C:\Documents and Settings\Lab Administrator\Desktop\NSRL Data\Gamma_Pre-irradiation141017\MeasurementNo00001.xls, 1 move attempts required.
