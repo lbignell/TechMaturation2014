@@ -1,5 +1,0 @@
-Beam Energy = 0
-Measurement Location = NSRL building (testing)
-Measurement Type = Debugging DAQ
-Sample Type = No Sample
-Comments = Ch4 = Beam Gate, Ch3 = IC, Ch1 = Delayed Beam Gate
