@@ -1,0 +1,3 @@
+﻿11/6/2014 11:16:23 AM New Instance of BeckmanFileHandler! Started: 
+11/6/2014 11:16:23 AM Source path = C:\Program Files\Beckman Coulter\LS 6000 WinConnection Suite 1.1\Data\USER04\
+11/6/2014 11:16:23 AM Destination path = C:\Documents and Settings\Lab Administrator\Desktop\NSRL Data\Pre-irrad_7_141106\
